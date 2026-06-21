@@ -27,9 +27,6 @@ Analyzed Superstore sales data using Python and Power BI.
 ![Dashboard](Screenshot 2026-06-21 154629)
 ![Dashboard](Screenshot 2026-06-21 154647)
 
-## Business Insights
-
-![Business Insights](Business_Insights.png)
 
 ## Business Insights
 - Technology category generated highest sales.
