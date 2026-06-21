@@ -22,6 +22,14 @@ Analyzed Superstore sales data using Python and Power BI.
 - Monthly Sales Trend
 - Sales by Region
 - Top 10 Products
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-06-21 154629)
+![Dashboard](Screenshot 2026-06-21 154647)
+
+## Business Insights
+
+![Business Insights](Business_Insights.png)
 
 ## Business Insights
 - Technology category generated highest sales.
